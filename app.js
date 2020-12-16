@@ -15,7 +15,7 @@ function getTranslationURL(input){
 
 function errorHandler(error){
     console.log("error occured",error);
-    alert("hi")
+    alert("some error occured, Come back after an hour!")
 }
 
 
